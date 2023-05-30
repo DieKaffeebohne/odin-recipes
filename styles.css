@@ -1,0 +1,32 @@
+* {
+    color:blue;
+    background-color: beige;
+    font-family:'Times New Roman', Times, serif
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.ingredients,
+h1 
+{
+    color:rgb(185, 60, 60);
+}
+
+.ingredients {
+    font-weight: bold;
+}
+
+.hi {
+    font-size: 20px;
+}
+
+.yo {
+    color: black;
+}
+
+.ingredients.yo {
+    font-size: 18px;
+}
